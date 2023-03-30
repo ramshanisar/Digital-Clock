@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <>
-    <h1 className='clock'>Digital Clock</h1>
+    <h1 className='clock'>Digital-Clock in React</h1>
     {ctime}
     </>
   )
